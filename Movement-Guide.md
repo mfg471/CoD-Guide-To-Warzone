@@ -34,8 +34,8 @@ For left-handed people, make the following changes:
 This change in controls makes it easy to go into the different stances, allowing for easy versatility, which is essential for movement demons.
 
 ---
-
-### Aim Response Curve
+### Sensitivity and Aiming
+#### Aim Response Curve
 This setting is usually untouched by any casual player because it is just fine for most things. Not for a demon. When set to Default, the aim starts slower than the aim sensitivity and then goes up to reach it. This can cause some problems and actually increase the amount of time before you start shooting. For this not to happen, we need to change that setting to something more usable.
 
 To adjust this, use the following menu path:
@@ -47,3 +47,18 @@ To adjust this, use the following menu path:
 6. Change its slope scale/strength to **0.9** or similar.
 
 With this type of curve setting, you actually start faster than regular and slow down to meet the aiming sensitivity. This is crucial for quick movements that require you to snap and turn around instantly.
+
+### Sensitivity Tuning<sub> (written by Gemini)</sub>
+Finding the right sensitivity is a balancing act. If it is too low, you cannot turn fast enough to break cameras. If it is too high, you will over-correct your aim and miss shots because your dominant hand is handling both recoil and tracking. 
+
+For a movement demon, you want a "fast-yet-controlled" profile.
+
+#### Horizontal & Vertical Stick Sensitivity
+Do not use the standard 4 or 5 sensitivity; it is simply too slow for modern Warzone.
+* **The Sweet Spot:** Set both Horizontal and Vertical sensitivity between **6 and 9**. 
+* **The Custom Ratio:** Keep your Horizontal and Vertical values identical (e.g., 7-7 or 8-8) to ensure your muscle memory builds a perfectly symmetrical 1:1 muscle response when snapping to targets.
+
+#### ADS Sensitivity Multiplier
+Because your stick sensitivity will be high for fast movement, you need to tone it down when you actually zoom in to fire. This ensures you do not lose control during long-range fights.
+* **The Setting:** Set your ADS Sensitivity Multiplier between **0.80 and 0.90**.
+* **Why it works:** If your base sensitivity is set to 8, an ADS multiplier of 0.85 drops your sensitivity down to a precise 6.8 the exact millisecond you aim down sight. You get blazing fast movement while running, but tight, sticky aim when shooting.
