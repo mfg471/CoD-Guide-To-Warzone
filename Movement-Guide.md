@@ -4,6 +4,7 @@
 
 ### Intro
 Have you ever been in a Casual Battle Royale lobby, farming kills on bots, when out of nowhere some God-awful sweat comes rolling in and absolutely dissolves you? Well, this How-To guide is going to give you the same tactical advantage. It covers most of the bases that are essential to being a demon and getting kills on real people.
+> If you find anything wrong with this article, or would like to commit, please open either an issue OR a pull request.
 
 ---
 [genuinely human error here]
