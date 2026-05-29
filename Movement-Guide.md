@@ -64,9 +64,15 @@ Because your stick sensitivity will be high for fast movement, you need to tone 
 * **Why it works:** If your base sensitivity is set to 8, an ADS multiplier of 0.85 drops your sensitivity down to a precise 6.8 the exact millisecond you aim down sight. You get blazing fast movement while running, but tight, sticky aim when shooting.
 ---
 ### Movement Settings <sub>(written by a human)</sub>
-#### Automatic Tactical Sprint
+#### Sprint Assist and \* Delay
 Even if you don't use the Sprinter perk (more on perks/loadouts later), it is always good to have **Sprint Assist** set to **Tactical Sprint Assist**, and to change the *Assist Delay* to **0**. This makes it so that immediately, as soon as you move that left (or right) joystick, you immediately start sprinting at the fastest speed you can. This ensures that you are speedy, while also saving your focus on pressing down the joystick to run. To change this setting:
 * Go to **Controller**
 * Go to submenu **Gameplay**
 * Go down to **Movement Behaviors**
 * Switch **Sprint Assist** to *Tactical Sprint Assist* and set the **Delay** to *0*
+#### Slide Cancels Sprint
+By default (for some unknown reason), the game likes to have this setting automatically set to **On**. This is detrimental to your movement, because if you don't press in that analog stick, you will be stuck in crouch, which will make you a sitting target (the polar-opposite of what is trying to be achieved). Turning this setting off actually gives you a boost in both momentum and hand strain, because it puts less strain on your hand, and it keeps your velocity high. To change this setting:
+* **Controller**... again
+* **Gameplay** submenu, as always
+* Navigate to **Movement Behaviors**
+* Turn *Off* **Slide Cancels Sprint**
