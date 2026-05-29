@@ -65,4 +65,8 @@ Because your stick sensitivity will be high for fast movement, you need to tone 
 ---
 ### Movement Settings <sub>(written by a human)</sub>
 #### Automatic Tactical Sprint
-Even if you don't use the Sprinter perk (more on perks/loadouts later), it is always good to have **Sprint Assist** set to **Tactical Sprint Assist**, and to change the *Assist Delay* to **0**. This makes it so that immediately, as soon as you move that left (or right) joystick, you immediately start sprinting at the fastest speed you can. This ensures that you are speedy, while also saving your focus on pressing down the joystick to run.
+Even if you don't use the Sprinter perk (more on perks/loadouts later), it is always good to have **Sprint Assist** set to **Tactical Sprint Assist**, and to change the *Assist Delay* to **0**. This makes it so that immediately, as soon as you move that left (or right) joystick, you immediately start sprinting at the fastest speed you can. This ensures that you are speedy, while also saving your focus on pressing down the joystick to run. To change this setting:
+* Go to **Controller**
+* Go to submenu **Gameplay**
+* Go down to **Movement Behaviors**
+* Switch **Sprint Assist** to *Tactical Sprint Assist* and set the **Delay** to *0*
