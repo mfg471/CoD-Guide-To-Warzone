@@ -6,7 +6,7 @@
 Have you ever been in a Casual Battle Royale lobby, farming kills on bots, when out of nowhere some God-awful sweat comes rolling in and absolutely dissolves you? Well, this How-To guide is going to give you the same tactical advantage. It covers most of the bases that are essential to being a demon and getting kills on real people.
 
 ---
-
+T
 ### Controls
 #### Dominant Hand
 Using your dominant hand to aim and shoot is critical to reduce the time it takes to naturally respond to threats in the AO, significantly decreasing TTK (Time-To-Kill). 
@@ -62,3 +62,7 @@ Do not use the standard 4 or 5 sensitivity; it is simply too slow for modern War
 Because your stick sensitivity will be high for fast movement, you need to tone it down when you actually zoom in to fire. This ensures you do not lose control during long-range fights.
 * **The Setting:** Set your ADS Sensitivity Multiplier between **0.80 and 0.90**.
 * **Why it works:** If your base sensitivity is set to 8, an ADS multiplier of 0.85 drops your sensitivity down to a precise 6.8 the exact millisecond you aim down sight. You get blazing fast movement while running, but tight, sticky aim when shooting.
+---
+### Movement Settings <sub>(written by a human)</sub>
+#### Automatic Tactical Sprint
+Even if you don't use the Sprinter perk (more on perks/loadouts later), it is always good to have **Sprint Assist** set to **Tactical Sprint Assist**, and to change the *Assist Delay* to **0**. This makes it so that immediately, as soon as you move that left (or right) joystick, you immediately start sprinting at the fastest speed you can. This ensures that you are speedy, while also saving your focus on pressing down the joystick to run.
