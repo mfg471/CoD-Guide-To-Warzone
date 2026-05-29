@@ -71,8 +71,27 @@ Even if you don't use the Sprinter perk (more on perks/loadouts later), it is al
 * Go down to **Movement Behaviors**
 * Switch **Sprint Assist** to *Tactical Sprint Assist* and set the **Delay** to *0*
 #### Slide Cancels Sprint
-By default (for some unknown reason), the game likes to have this setting automatically set to **On**. This is detrimental to your movement, because if you don't press in that analog stick, you will be stuck in crouch, which will make you a sitting target (the polar-opposite of what is trying to be achieved). Turning this setting off actually gives you a boost in both momentum and hand strain, because it puts less strain on your hand, and it keeps your velocity high. To change this setting:
+By default (for some unknown reason), the game likes to have this setting automatically set to **On**. This is detrimental to your movement because if you don't press in the analog stick, you will be stuck in crouch, which will make you a sitting target (the polar opposite of what is trying to be achieved). Turning this setting off actually gives you a boost in both momentum and hand strain, because it puts less strain on your hand, and it keeps your velocity high. To change this setting:
 * **Controller**... again
 * **Gameplay** submenu, as always
 * Navigate to **Movement Behaviors**
 * Turn *Off* **Slide Cancels Sprint**
+This gives you a boost by maintaining maximum momentum and movement.
+---
+#### Movement Techniques <sub>(partial Gemini, mostly human)</sub>
+### Slide Cancelling <sub>h</sub>
+This movement technique will be your best friend in close-quarters and mid-range gunfights. It gives you a temporary speed boost and also gives you unpredictability, which is not just a pitcher's best friend. To execute this move:
+* While sprinting, *press* (not *hold*) your **Change Stance** button to start sliding
+* In the middle of the slide, press **Change Stance** again to immediately stop sliding.
+
+While-- in Warzone 1.0, anyway-- it refreshed Tactical Sprint energy, it also gives maximum velocity allowed for a slide, while still (as stated) keeping predictability to a minimum.
+
+### Snaking <sub>G</sub>
+If slide-cancelling is your best friend in a gunfight, snaking is your insurance policy. This technique turns you into a glitching target behind low cover while giving you free info on the enemy. To execute this move:
+* Behind a low wall or head-glitch\^*, drop into a **Prone** stance.
+* The exact millisecond your body hits the floor, push your movement stick forward and hit **Sprint** to instantly snap back to your feet.
+* The moment you stand up, immediately hit **Prone** again to drop back down. 
+
+While it requires a rapid loop of muscle memory, it also gives you a continuous view of the enemy, while still (as stated) keeping your own hitbox completely unhittable on their screen.
+
+> \^* After some research, a head-glitch is: a cover in which only your head (or at least parts of it) are available to be shot, while you maintain the full target of the enemy's body, allowing for a better advantage in a fight like this.
