@@ -6,7 +6,7 @@
 Have you ever been in a Casual Battle Royale lobby, farming kills on bots, when out of nowhere some God-awful sweat comes rolling in and absolutely dissolves you? Well, this How-To guide is going to give you the same tactical advantage. It covers most of the bases that are essential to being a demon and getting kills on real people.
 
 ---
-T
+[genuinely human error here]
 ### Controls
 #### Dominant Hand
 Using your dominant hand to aim and shoot is critical to reduce the time it takes to naturally respond to threats in the AO, significantly decreasing TTK (Time-To-Kill). 
