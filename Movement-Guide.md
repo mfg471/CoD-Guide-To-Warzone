@@ -34,7 +34,7 @@ For left-handed people, make the following changes:
 This change in controls makes it easy to go into the different stances, allowing for easy versatility, which is essential for movement demons.
 
 ---
-### Sensitivity and Aiming
+### Aiming Accuracy
 #### Aim Response Curve
 This setting is usually untouched by any casual player because it is just fine for most things. Not for a demon. When set to Default, the aim starts slower than the aim sensitivity and then goes up to reach it. This can cause some problems and actually increase the amount of time before you start shooting. For this not to happen, we need to change that setting to something more usable.
 
